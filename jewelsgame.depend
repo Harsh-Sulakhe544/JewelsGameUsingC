@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1674186635 source:c:\users\itzha\documents\c ++\jewelsgame\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
